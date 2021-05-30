@@ -19,7 +19,7 @@ We all pride ourselves on our individualism and our longings, however unrealisti
 ---
 
 ## Interest
-Currently I'm interested in bettering my writing and taking better shots. Once, I 
+Currently I'm interested in bettering my writing and taking better shots.
 On the technical side, I'm still interested in building complex distributed systems.
 
 ---
