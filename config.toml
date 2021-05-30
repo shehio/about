@@ -1,5 +1,5 @@
 title = "Shehab Yasser"
-baseURL = "https://example.com"
+baseURL = "https://shehio.com"
 theme = "researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
@@ -12,8 +12,8 @@ googleAnalytics = ""  # add your tracking id
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
-    text = "By Olivier Roques"
-    url = "https://github.com/ojroques/hugo-researcher"
+    text = "By Shehio"
+    url = "https://github.com/shehio"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
