@@ -4,7 +4,7 @@ title = "About"
 
 ## About Me
 
-{{< figure class="avatar" src="/images/qaitbay4.jpg" alt="avatar">}}
+{{< figure class="avatar" src="/images/qaitbay.jpg" alt="avatar">}}
 
 In the past few years, I’ve worked as an engineer. It has provided a great deal of structure in my day, organizing my life around projects, situations, and obstacles. Sometimes I thought about life as a collection of systems and processes with different dependencies, efficiencies, and bottlenecks. Engineering also gave me an eye for detail and had me deconstruct complex systems.
 
