@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Shehab Yasser</title>
-    <link>https://shehio.github.io/projectshehio/</link>
+    <link>https://shehio.com/</link>
     <description>Recent content in About on Shehab Yasser</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://shehio.github.io/projectshehio/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://shehio.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://shehio.github.io/projectshehio/about/</link>
+      <link>https://shehio.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://shehio.github.io/projectshehio/about/</guid>
+      <guid>https://shehio.com/about/</guid>
       <description>About Me  In the past few years, I’ve worked as an engineer. It has provided a great deal of structure in my day, organizing my life around projects, situations, and obstacles. Sometimes I thought about life as a collection of systems and processes with different dependencies, efficiencies, and bottlenecks. Engineering also gave me an eye for detail and had me deconstruct complex systems.
 In grad school, I studied finance, statistics, and mathematics.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://shehio.github.io/projectshehio/contact/</link>
+      <link>https://shehio.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://shehio.github.io/projectshehio/contact/</guid>
+      <guid>https://shehio.com/contact/</guid>
       <description>Grab Coffee Although I live in gloomy Seattle, I try to spend as much time every year in my sunny hometown, Alexandria, Egypt. I am always down to meet new people and learn new disciplines. If you need to discuss some new project or brainstorm some ideas, let&amp;rsquo;s grab coffee or just meet virtually. Ping me at shehabyasser@gmail.com.
  In Jemaa el-Fna market place in Marrakesh&#39;s old city.   Social  Facebook Twitter Instagram  </description>
     </item>
