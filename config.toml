@@ -8,7 +8,7 @@ googleAnalytics = ""  # add your tracking id
 
 [params]
   author = "Shehab Yasser"
-  description = "A on-pager about shehio."
+  description = "A one-pager about shehio."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
