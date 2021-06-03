@@ -6,9 +6,9 @@ title = "About"
 
 {{< figure class="avatar" src="/images/qaitbay.jpg" alt="avatar">}}
 
-I have spent the past few years of my life working as an engineer. Engineering has provided me with a great deal of structure in my daily life, constantly organizing my schedule around the next project, situation, or obstacle. Now I feel ready to tackle any project and deconstruct it as a collection of systems and processes with different dependencies, efficiencies, and bottlenecks.
+I have spent the past few years of my life working as an engineer. Engineering has provided me with a great deal of structure in my daily life, constantly organizing my schedule around the next project, situation, or obstacle. Now I approach any project as a collection of systems and processes with different dependencies, efficiencies, and bottlenecks.
 
-In graduate school, I studied finance, statistics, and mathematics. I was curious about how the economy works and how the wizards of wall street “hack” the markets and make billions of dollars. Yet later in school, my interest in AI rekindled. I led a research book club and sought to build intelligent machines that learn to play games or generate realistic, artificial faces.
+In graduate school, I studied finance, statistics, and mathematics. I was curious about how the economy works and how the wizards of wall street “hack” the markets and make billions of dollars. Later on in school, my interest in AI was also rekindled. I led a research book club and sought to build intelligent machines that learn to play games or generate realistic, artificial faces.
 
 As my technical knowledge expands, so does my appreciation for the humanities and the arts. Science pursues objectivity, logic, and rationality, while art pursues subjectivity and relativity. An artist’s poem or a painting reflects how they see the world and not what’s truly there. In short, an artist seeks to attain self-realization, the noblest of all pursuits.
 
