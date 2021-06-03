@@ -26,7 +26,7 @@ Currently, I’m interested in bettering my writing and taking better photos. On
 ## Pet Projects
 
 In `no` order:
-1. [Project Nash](https://projectnash.com)
+1. [Project Nash](https://www.projectnash.com)
 2. [Islamic Timeline](https://islamictimeline.com)
 3. [Reinforcement Learning](https://github.com/shehio/ReinforcementLearning)
 4. [Monte Carlo Tree Search](https://github.com/shehio/monte-carlo-tree-search)
