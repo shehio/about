@@ -1,3 +1,7 @@
++++
+title = "More"
++++
+
 ## A little More Subjective
 
 In the about section, I wrote about my scientific mind. But that’s only one dimension. As my technical knowledge expands, so does my appreciation for the humanities and the arts. Science pursues objectivity, logic, and rationality, while art pursues subjectivity and relativity. An artist’s poem or painting reflects how they see the world and not what’s truly there. In short, an artist seeks to attain self-realization, the noblest of all pursuits.
