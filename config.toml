@@ -8,7 +8,7 @@ googleAnalytics = ""  # add your tracking id
 
 [params]
   author = "Shehab Yasser"
-  description = "A one-pager about."
+  description = "A one-pager about shehab yasser."
   favicon = "favicon.ico"  # path to a .ico to use as favicon
   logo = ""  # url or path to a logo to put in the header
   [params.footer]
@@ -17,7 +17,7 @@ googleAnalytics = ""  # add your tracking id
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
     pageWidth = "750px"
-    avatarSize = "90px"
+    avatarSize = "150px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
   [[params.socialIcons]]
