@@ -16,8 +16,8 @@ googleAnalytics = ""  # add your tracking id
     url = "https://github.com/shehio"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
-    pageWidth = "750px"
-    avatarSize = "150px"
+    pageWidth = "600px"
+    avatarSize = "125px"
     colorBlack = "#222222"
     colorRed = "#dc3545"
   [[params.socialIcons]]
