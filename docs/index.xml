@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Shehab Yasser</title>
-    <link>https://shehio.com/</link>
+    <link>https://shehabyasser.com/</link>
     <description>Recent content in About on Shehab Yasser</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://shehio.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://shehabyasser.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://shehio.com/about/</link>
+      <link>https://shehabyasser.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://shehio.com/about/</guid>
+      <guid>https://shehabyasser.com/about/</guid>
       <description>About Me  I work as a backend engineer, and I live in Seattle. I’ll spare you all the references from being a techie in such a beautiful place: Patagonia, Hiking, Robo-advisers. Honestly, no one puts it better than Alexis.
 But it didn’t start there, did it? Here’s my one-minute about.
 Problem-solving has always fascinated me. This led me to study computer science as an undergraduate. In my early twenties, I became curious about the financial markets and their completeness.</description>
@@ -18,20 +18,20 @@ Problem-solving has always fascinated me. This led me to study computer science 
     
     <item>
       <title>Contact</title>
-      <link>https://shehio.com/contact/</link>
+      <link>https://shehabyasser.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://shehio.com/contact/</guid>
+      <guid>https://shehabyasser.com/contact/</guid>
       <description>Get In Touch I am always interested in meeting new people and learning new disciplines. If you would like to discuss some new projects, please ping me at shehabyasser@gmail.com.
  In Jemaa el-Fna market place in Marrakesh&#39;s old city.   Social  Facebook Twitter Instagram  </description>
     </item>
     
     <item>
       <title>More</title>
-      <link>https://shehio.com/more/</link>
+      <link>https://shehabyasser.com/more/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://shehio.com/more/</guid>
+      <guid>https://shehabyasser.com/more/</guid>
       <description>A little More Subjective In the about section, I wrote about my scientific mind. But that’s only one dimension. As my technical knowledge expands, so does my appreciation for the humanities and the arts. Science pursues objectivity, logic, and rationality, while art pursues subjectivity and relativity. An artist’s poem or painting reflects how they see the world and not what’s truly there. In short, an artist seeks to attain self-realization, the noblest of all pursuits.</description>
     </item>
     
