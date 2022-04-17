@@ -6,11 +6,11 @@ title = "About"
 
 {{< figure class="avatar" src="/images/cairo.jpeg" >}}
 
-I work as a backend engineer, and I live in Seattle. I’ll spare you all the references from being a techie in such a beautiful place: Patagonia, Hiking, Robo-advisers. Honestly, no one puts it better than [Alexis](https://twitter.com/yayalexisgay/status/1249057146051821568).
+I work as a backend engineer, and I live in Seattle. I’ll spare you all the tech references: Patagonia, Hiking, Robo-advisers. Honestly, no one puts it better than [Alexis](https://twitter.com/yayalexisgay/status/1249057146051821568).
 
 But it didn’t start there, did it? Here’s my one-minute about.
 
-Problem-solving has always fascinated me. This led me to study computer science as an undergraduate. In my early twenties, I became curious about the financial markets and their completeness. This curiosity prompted me to return to school, where I got a degree in financial mathematics. Here’s the [complete story](https://www.projectnash.com/what-is-project-nash/).
+Problem-solving has always fascinated me. This led me to study computer science as an undergraduate. In my early twenties, I became curious about the financial markets and their [efficiencies](https://en.wikipedia.org/wiki/Efficient-market_hypothesis). This curiosity prompted me to return to school, where I got a degree in financial mathematics. Here’s the [complete story](https://www.projectnash.com/what-is-project-nash/).
 
 In grad school, I rekindled my interest in Artificial Intelligence. I led a book club to discuss new research papers featuring [RL](https://en.wikipedia.org/wiki/Reinforcement_learning) and [GANs](https://en.wikipedia.org/wiki/Generative_adversarial_network). I also implemented the algorithms from these papers to play video games and generate realistic artificial faces.
 
