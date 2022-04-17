@@ -6,19 +6,17 @@ title = "About"
 
 {{< figure class="avatar" src="/images/cairo.jpeg" >}}
 
-Since early childhood, I have been curious about computers’ inner workings, particularly how software manipulates computer architecture. My early interest in computers led me to study computer science as an undergraduate.
+I work as a backend engineer, and I live in Seattle. I’ll spare you all the references from being a techie in such a beautiful place: Patagonia, Hiking, Robo-advisers. Honestly, no one puts it better than [Alexis](https://twitter.com/yayalexisgay/status/1249057146051821568).
 
-After graduating, I worked as a software engineer on many exciting projects that included client-side applications and server-side distributed systems. My work has trained me to have an eye for detail and think of the butterfly effect of any trivial change in a codebase.
+But it didn’t start there, did it? Here’s my one-minute about.
 
-Fast forward a few years, I became curious about the financial markets, specifically how the wizards of Wall Street “hack the markets” to make billions of dollars. This newfound curiosity prompted my return to school, where I got my master’s degree in [financial mathematics](https://en.wikipedia.org/wiki/Mathematical_finance).
+Problem-solving has always fascinated me. This led me to study computer science as an undergraduate. In my early twenties, I became curious about the financial markets and their completeness. This curiosity prompted me to return to school, where I got a degree in financial mathematics. Here’s the [complete story](https://www.projectnash.com/what-is-project-nash/).
 
-Grad school rekindled my interest in Artificial Intelligence, where I led a book club to discuss new research papers featuring [RL](https://en.wikipedia.org/wiki/Reinforcement_learning) and [GANs](https://en.wikipedia.org/wiki/Generative_adversarial_network). In my spare time, I built artificially intelligent agents to play video games and generate realistic artificial faces.
+In grad school, I rekindled my interest in Artificial Intelligence. I led a book club to discuss new research papers featuring [RL](https://en.wikipedia.org/wiki/Reinforcement_learning) and [GANs](https://en.wikipedia.org/wiki/Generative_adversarial_network). I also implemented the algorithms from these papers to play video games and generate realistic artificial faces.
 
-I have an engineering mindset, and I embrace my aptitude for problem-solving. In my daily routine, I strive for consistency, efficiency, and automation. I think of life as a combination of different systems; each has unique dependencies, efficiencies, and bottlenecks. I work best with a schedule that leaves few loose ends open, one that quickly redirects me to the next project, situation, or obstacle to tackle.
+In another life, I would’ve pursued an academic position or could’ve become a journalist. I like to research different topics and explain them to myself/others using simple analogies and stories. I created a website to do just that. I wrote about many domains from [relationships](https://www.projectnash.com/500-days-of-summer-and-attachment-theory/) to [game theory](https://www.projectnash.com/aliens-the-fermi-paradox-and-the-dark-forest-theory/) and [socioeconomic mobility](https://www.projectnash.com/the-great-gatsby-and-the-demise-of-the-american-dream/) to [efficiency](https://www.projectnash.com/randy-pausch/).
 
-Outside of work, I unwind in different ways. I like to hike various trails and play a bunch of sports. I also appreciate the pleasures of slow-paced activities like meeting up with family and friends, trying different foods, and playing board games.
-
-Through it all, I always try my hardest to catch as many captivating moments as possible through photography and journaling. These moments are what we live for!
+When I’m not working or learning about the world, I like to hike and play different sports. I also appreciate slow-paced activities like trying different foods and playing board games.
 
 ---
 
@@ -27,18 +25,16 @@ Through it all, I always try my hardest to catch as many captivating moments as 
 In `no` order:
 1. [Project Nash](https://www.projectnash.com)
 2. [Islamic Timeline](https://islamictimeline.com)
-3. [Reinforcement Learning](https://github.com/shehio/ReinforcementLearning)
-4. [Monte Carlo Tree Search](https://github.com/shehio/monte-carlo-tree-search)
-5. [Karpathy Pong](https://github.com/shehio/Karpathy-Pong)
-6. [Computational Biology](https://github.com/shehio/Computational-Biology)
-7. [Everything Financial Engineering](https://github.com/shehio/Everything-Financial-Engineering)
+3. [Reinforcement Learning Playbook](https://rlplaybook.com/)
+4. [Computational Biology](https://github.com/shehio/Computational-Biology)
+5. [Monte Carlo Tree Search](https://github.com/shehio/monte-carlo-tree-search)
+6. [Karpathy Pong](https://github.com/shehio/Karpathy-Pong)
+7. [Reinforcement Learning Everything](https://github.com/shehio/ReinforcementLearning)
+8. [Everything Financial Engineering](https://github.com/shehio/Everything-Financial-Engineering)
 
 ---
 
 ## Favorite Quotes
-
-> Please Don't Call Me Arrogant, I Think I'm a Special One.
-— Jose Mourinho
 
 > What Is More Important Than Reading Books, Is Reading People's Faces
 — Anis Mansour
@@ -48,3 +44,6 @@ In `no` order:
 
 > The Truth Is Rarely Pure and Never Simple.
 — Oscar Wilde
+
+> Please Don't Call Me Arrogant, I Think I'm a Special One.
+— Jose Mourinho
