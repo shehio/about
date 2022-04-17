@@ -36,11 +36,11 @@ In `no` order:
 
 ## Favorite Quotes
 
-> What Is More Important Than Reading Books, Is Reading People's Faces
-— Anis Mansour
-
 > The First Principle Is That You Must Not Fool Yourself, and You Are the Easiest Person to Fool
 — Richard Feynman
+
+> What Is More Important Than Reading Books, Is Reading People's Faces
+— Anis Mansour
 
 > The Truth Is Rarely Pure and Never Simple.
 — Oscar Wilde
