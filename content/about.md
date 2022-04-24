@@ -24,7 +24,7 @@ When I’m not working or learning about the world, I like to hike and play diff
 
 In `no` order:
 1. [Project Nash](https://www.projectnash.com)
-2. [Islamic Timeline](https://islamictimeline.com)
+2. [Islamic Timeline](https://islamictimeline.com) (best on phone)
 3. [Reinforcement Learning Playbook](https://rlplaybook.com/)
 4. [Computational Biology](https://github.com/shehio/Computational-Biology)
 5. [Monte Carlo Tree Search](https://github.com/shehio/monte-carlo-tree-search)
@@ -34,16 +34,29 @@ In `no` order:
 
 ---
 
-## Favorite Quotes
+## Favorite Verses
 
-> The First Principle Is That You Must Not Fool Yourself, and You Are the Easiest Person to Fool
-— Richard Feynman
+> يعلمون ظاهرا من الحياة الدنيا وهم عن الآخرة هم غافلون
+> 
+> They ˹only˺ know the worldly affairs of this life, but are ˹totally˺ oblivious to the Hereafter.
+— Ar-Rum 7
 
-> What Is More Important Than Reading Books, Is Reading People's Faces
-— Anis Mansour
+> أحسب الناس أن يتركوا أن يقولوا آمنا وهم لا يفتنون
+>
+> Do people think once they say, “We believe,” that they will be left without being put to the test?
+— Al-'Ankabut 2
 
-> The Truth Is Rarely Pure and Never Simple.
-— Oscar Wilde
+> أم خلقوا من غير شيء أم هم الخالقون
+>
+> Or were they created by nothing, or are they ˹their own˺ creators?
+— At-Tur 35
 
-> Please Don't Call Me Arrogant, I Think I'm a Special One.
-— Jose Mourinho
+> إن هي إلا أسماء سميتموها أنتم وآباؤكم ما أنـزل الله بها من سلطان إن يتبعون إلا الظن وما تهوى الأنفس ولقد جاءهم من ربهم الهدى
+>
+> These ˹idols˺ are mere names that you and your forefathers have made up — a practice Allah has never authorized. They follow nothing but ˹inherited˺ assumptions and whatever ˹their˺ souls desire, although ˹true˺ guidance has already come to them from their Lord.
+— An-Najm 23
+
+> من كان يظن أن لن ينصره الله في الدنيا والآخرة فليمدد بسبب إلى السماء ثم ليقطع فلينظر هل يذهبن كيده ما يغيظ
+>
+> Whoever thinks that Allah will not help His Prophet in this world and the Hereafter, let them stretch out a rope to the ceiling and strangle themselves, then let them see if this plan will do away with ˹the cause of˺ their rage.
+— Al-Hajj 15
