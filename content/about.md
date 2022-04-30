@@ -60,3 +60,22 @@ In `no` order:
 >
 > Whoever thinks that Allah will not help His Prophet in this world and the Hereafter, let them stretch out a rope to the ceiling and strangle themselves, then let them see if this plan will do away with ˹the cause of˺ their rage.
 — Al-Hajj 15
+
+
+> وقالوا ما هي إلا حياتنا الدنيا نموت ونحيا وما يهلكنا إلا الدهر ۚ وما لهم بذلك من علم ۖ إن هم إلا يظنون
+>
+> And they argue, “There is nothing beyond our worldly life. We die; others are born. And nothing destroys us but ˹the passage of˺ time.” Yet they have no knowledge ˹in support˺ of this ˹claim˺. They only speculate.
+— Al-Jathiyah 24
+
+
+> إن الله يأمر بالعدل والإحسان وإيتاء ذي القربى وينهى عن الفحشاء والمنكر والبغي ۚ يعظكم لعلكم تذكرون
+>
+> Indeed, Allah commands justice, grace, as well as courtesy to close relatives. He forbids indecency, wickedness, and aggression. He instructs you so perhaps you will be mindful.
+— An-Nahl 90
+
+
+> (3) يا أيها الذين آمنوا لم تقولون ما لا تفعلون (2) كبر مقتا عند الله أن تقولوا ما لا تفعلون
+>
+> O believers! Why do you say what you do not do? How despicable it is in the sight of Allah that you say what you do not do!
+
+— As-Saf 2-3
